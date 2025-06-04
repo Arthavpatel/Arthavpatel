@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🏁 Arthav Patel
 
-<!--
-**Arthavpatel/Arthavpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science Student @ SFU**  
+🏎️ **Motorsport Analytics Enthusiast**  
+📊 Python • FastF1 • Machine Learning • Race Strategy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project: [F1 Top 3 Predictor](https://github.com/Arthavpatel/f1_top3_winner_prediction)
+Predict podium finishers in Formula 1 using telemetry data, tyre degradation, and qualifying performance powered by FastF1 + XGBoost.
+
+![Top3 Predictor](https://raw.githubusercontent.com/Arthavpatel/f1_top3_winner_prediction/main/thumbnail.png) <!-- Or upload your own thumbnail image -->
+
+---
+
+### 🧠 Skills
+- Python • pandas • scikit-learn • XGBoost
+- FastF1 • Telemetry Analysis • Data Visualization
+- Machine Learning for Race Strategy
+
+---
+
+### 📫 Contact Me
+- Email: arthav@example.com *(or your GitHub noreply email)*
+- LinkedIn: [linkedin.com/in/arthavpatel](https://linkedin.com/in/arthavpatel)
+
