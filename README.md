@@ -72,6 +72,21 @@ Benchmarked Norris vs. Verstappen, Leclerc, and Hamilton through Sector 2 to bre
 
 <div align="center">
 
+> *Passionate about data-driven racing. Always looking to connect with motorsport engineers, data scientists, and analytics teams building the future of F1.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2800,100:7a0000&height=120&section=footer" width="100%"/>
+
+</div>![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arthavpatel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF2800&icon_color=FF2800&text_color=ffffff&count_private=true" height="165"/>
